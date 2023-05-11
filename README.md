@@ -1,4 +1,4 @@
-![doom fire](./fire.png)
+![doom fire](./fire.gif)
 
 # Doom Fire
 ***
