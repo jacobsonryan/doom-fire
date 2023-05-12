@@ -2,8 +2,6 @@
 
 # Doom Fire
 
-Simple overview of use/purpose.
-
 ## Description
 
 This project demonstrates the fire in the loading screen of the Playstation 1 port of DOOM. 
