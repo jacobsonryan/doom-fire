@@ -8,8 +8,6 @@ Featured in the Game Engine Black Book DOOM
 This project demonstrates the fire in the loading screen of the Playstation 1 port of DOOM. 
 I have been really inspired lately to work on graphical programming as well as to learn the C programming language so this was a great experience to satisfy that!
 
-## Getting Started
-
 ### Dependencies
 
 * SDL2
