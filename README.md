@@ -1,6 +1,7 @@
 ![doom fire](./fire.gif)
 
 # Doom Fire
+Featured in the Game Engine Black Book DOOM
 
 ## Description
 
