@@ -19,5 +19,4 @@ I have been really inspired lately to work on graphical programming as well as t
 
 ## Acknowledgments
 
-[Fabien Sanglard's article explaining how this algorithm works!](https://github.com/matiassingers/awesome-readme](https://fabiensanglard.net/doom_fire_psx/)
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [Fabien Sanglard's article explaining how this algorithm works](https://fabiensanglard.net/doom_fire_psx/)
